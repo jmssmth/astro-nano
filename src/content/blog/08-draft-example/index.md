@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2025-07-17
-title: Draft example
+title: Pages CMD Editor Markup
 ---
 This post demonstrates Pages CMS editor markup...
 
