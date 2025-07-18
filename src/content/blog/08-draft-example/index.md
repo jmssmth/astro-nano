@@ -1,8 +1,9 @@
 ---
-published: true
+title: Pages CMS Editor Markup Example
+description: "Hit the ground running."
 date: 2025-07-17
-title: Pages CMD Editor Markup
 ---
+
 This post demonstrates Pages CMS editor markup...
 
 # Header 1
