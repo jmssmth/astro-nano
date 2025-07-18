@@ -1,7 +1,7 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "MightyBit"
+role: "Founder"
+dateStart: "2022-o6-01"
 dateEnd: "Current"
 ---
 
